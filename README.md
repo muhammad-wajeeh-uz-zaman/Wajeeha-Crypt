@@ -1,6 +1,7 @@
 # 🔐 Wajeeha Crypt
 
 **Wajeeha Crypt** is a simple desktop app that encrypts and decrypts **individual files and folders** with a master password.
+<img width="535" height="759" alt="image" src="https://github.com/user-attachments/assets/edead384-af3b-421f-88b7-c4b98bf2a7b8" />
 
 It is inspired by [VeraCrypt](https://github.com/veracrypt/veracrypt), but where VeraCrypt encrypts whole drives and volumes, Wajeeha Crypt works at the **file level**: pick files or a folder, enter a password, and click **Encrypt**.
 
